@@ -1,0 +1,20 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: statestore
+spec:
+  type: state.azure.cosmosdb
+  version: v1
+  metadata:
+  - name: keyPrefix
+  - value: TaskId
+  - name: url
+    value: https://taskstracker-state-store.documents.azure.com:443/
+  - name: masterKey
+    value: "rBQeCKWmvKDC74ZEDAeev8y1o6SvuojnGFOdC6D4v3GPCskLiHDJam40cpPSrmszp6utebGwFWfQACDboaPqvA=="
+  - name: database
+    value: taskstracker-state-storee
+  - name: collection
+    value: taskstracker-state-storee
+scopes:
+- tasksmanager-backend-api

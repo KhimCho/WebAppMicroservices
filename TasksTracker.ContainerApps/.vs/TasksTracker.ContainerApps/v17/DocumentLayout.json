@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\TasksTracker.ContainerApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\services\\tasksstoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\services\\tasksstoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\services\\faketasksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\services\\faketasksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\services\\itasksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\services\\itasksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\taskstracker.tasksmanager.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\taskstracker.tasksmanager.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\taskstracker.webportal.frontend.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\taskstracker.webportal.frontend.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.webportal.frontend.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}|TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj|solutionrelative:taskstracker.webportal.frontend.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|d:\\repos\\taskstracker.containerapps\\taskstracker.tasksmanager.backend.api\\taskstracker.tasksmanager.backend.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0052C29E-428D-44D9-9D07-98ABE636B0D4}|TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj|solutionrelative:taskstracker.tasksmanager.backend.api\\taskstracker.tasksmanager.backend.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T14:11:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TasksStoreManager.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\TasksStoreManager.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Services\\TasksStoreManager.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\TasksStoreManager.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Services\\TasksStoreManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:09:24.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:20:08.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:20:07.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:12:02.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Models\\TaskModel.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:21:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeTasksManager.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\FakeTasksManager.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Services\\FakeTasksManager.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\FakeTasksManager.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Services\\FakeTasksManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:22:44.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:23:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Program.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Program.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:23:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITasksManager.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\ITasksManager.cs",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Services\\ITasksManager.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Services\\ITasksManager.cs",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Services\\ITasksManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:22:31.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Dockerfile",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Dockerfile",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T06:23:58.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:12:51.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Models\\TaskModel.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Models\\TaskModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:08:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:20:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\appsettings.json",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\appsettings.json",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T06:24:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:20:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Edit.cshtml.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Edit.cshtml.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Pages\\Tasks\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:20:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksTracker.TasksManager.Backend.Api.csproj",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T08:36:43.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TasksTracker.WebPortal.Frontend.Ui",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\TasksTracker.WebPortal.Frontend.Ui.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T08:13:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Dockerfile",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Dockerfile",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Dockerfile",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T08:13:00.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\appsettings.json",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\appsettings.json",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\appsettings.json",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T08:11:34.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Program.cs",
+              "RelativeDocumentMoniker": "TasksTracker.WebPortal.Frontend.Ui\\Program.cs",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.WebPortal.Frontend.Ui\\Program.cs",
+              "RelativeToolTip": "TasksTracker.WebPortal.Frontend.Ui\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:11:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T06:27:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TasksTracker.TasksManager.Backend.Api",
+              "DocumentMoniker": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "RelativeDocumentMoniker": "TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "ToolTip": "D:\\repos\\TasksTracker.ContainerApps\\TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "RelativeToolTip": "TasksTracker.TasksManager.Backend.Api\\TasksTracker.TasksManager.Backend.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T06:24:44.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

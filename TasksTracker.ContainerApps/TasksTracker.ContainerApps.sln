@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksTracker.TasksManager.Backend.Api", "TasksTracker.TasksManager.Backend.Api\TasksTracker.TasksManager.Backend.Api.csproj", "{0052C29E-428D-44D9-9D07-98ABE636B0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksTracker.WebPortal.Frontend.Ui", "TasksTracker.WebPortal.Frontend.Ui\TasksTracker.WebPortal.Frontend.Ui.csproj", "{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0052C29E-428D-44D9-9D07-98ABE636B0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0052C29E-428D-44D9-9D07-98ABE636B0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0052C29E-428D-44D9-9D07-98ABE636B0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0052C29E-428D-44D9-9D07-98ABE636B0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBC3D45-527B-47C3-9E1B-30097D7A92B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5073ED-E161-43C7-A5E4-D18794B04995}
+	EndGlobalSection
+EndGlobal
