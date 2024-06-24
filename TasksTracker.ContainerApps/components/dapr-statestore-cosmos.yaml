@@ -11,7 +11,7 @@ spec:
   - name: url
     value: https://taskstracker-state-store.documents.azure.com:443/
   - name: masterKey
-    value: "rBQeCKWmvKDC74ZEDAeev8y1o6SvuojnGFOdC6D4v3GPCskLiHDJam40cpPSrmszp6utebGwFWfQACDboaPqvA=="
+    value: ""
   - name: database
     value: taskstracker-state-storee
   - name: collection
