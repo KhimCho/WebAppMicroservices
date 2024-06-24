@@ -11,6 +11,6 @@ metadata:
   value: taskstracker-state-storee
 secrets:
 - name: cosmoskey
-  value: "rBQeCKWmvKDC74ZEDAeev8y1o6SvuojnGFOdC6D4v3GPCskLiHDJam40cpPSrmszp6utebGwFWfQACDboaPqvA=="
+  value: ""
 scopes:
 - tasksmanager-backend-api
